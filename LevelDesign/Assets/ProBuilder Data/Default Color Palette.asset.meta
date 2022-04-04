@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 387eaf22d33bd5e4f890e6febb3b3c99
+=======
+guid: 961cd0307b3a91444bc8478a8d9de445
+>>>>>>> Sebbebranch
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
